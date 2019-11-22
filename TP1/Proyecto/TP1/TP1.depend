@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1567618986 source:c:\users\sa-julian\documents\estudio\utn fra\1er cuatrimestre\programación y laboratorio 1\tp1\proyecto\tp1\aritmetica.c
+
+1567619802 c:\users\sa-julian\documents\estudio\utn fra\1er cuatrimestre\programación y laboratorio 1\tp1\proyecto\tp1\aritmetica.h
+	<stdio.h>
+	"aritmetica.c"
+
+1567620452 source:c:\users\sa-julian\documents\estudio\utn fra\1er cuatrimestre\programación y laboratorio 1\tp1\proyecto\tp1\main.cpp
+	<iostream>
+	"aritmetica.h"
+
+1567618986 c:\users\sa-julian\documents\estudio\utn fra\1er cuatrimestre\programación y laboratorio 1\tp1\proyecto\tp1\aritmetica.c
+

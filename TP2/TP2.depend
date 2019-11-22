@@ -1,0 +1,177 @@
+# depslib dependency file v1.0
+1569546607 source:d:\nueva carpeta\tp2\arrayempleados.c
+	<stdio.h>
+	<string.h>
+	"utn.h"
+	"ArrayEmpleados.h"
+
+1569549822 d:\nueva carpeta\tp2\utn.h
+
+1569544948 d:\nueva carpeta\tp2\arrayempleados.h
+
+1569546537 source:d:\nueva carpeta\tp2\main.c
+	<stdio.h>
+	<string.h>
+	"utn.h"
+	"ArrayEmpleados.h"
+
+1569549823 source:d:\nueva carpeta\tp2\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1569573550 source:c:\users\sa-julian\downloads\tp2-20190927t042944z-001\tp2\arrayempleados.c
+	<stdio.h>
+	<string.h>
+	"utn.h"
+	"ArrayEmpleados.h"
+
+1569532426 c:\users\sa-julian\downloads\tp2-20190927t042944z-001\tp2\utn.h
+
+1569571722 c:\users\sa-julian\downloads\tp2-20190927t042944z-001\tp2\arrayempleados.h
+
+1569573058 source:c:\users\sa-julian\downloads\tp2-20190927t042944z-001\tp2\main.c
+	<stdio.h>
+	<string.h>
+	"utn.h"
+	"ArrayEmpleados.h"
+
+1569572853 source:c:\users\sa-julian\downloads\tp2-20190927t042944z-001\tp2\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1569785456 source:c:\users\sa-julian\documents\estudio\utn fra\1er cuatrimestre\programación y laboratorio 1\tp2\arrayempleados.c
+	<stdio.h>
+	<string.h>
+	"utn.h"
+	"ArrayEmpleados.h"
+
+1569580294 c:\users\sa-julian\documents\estudio\utn fra\1er cuatrimestre\programación y laboratorio 1\tp2\utn.h
+
+1569724921 c:\users\sa-julian\documents\estudio\utn fra\1er cuatrimestre\programación y laboratorio 1\tp2\arrayempleados.h
+
+1569726638 source:c:\users\sa-julian\documents\estudio\utn fra\1er cuatrimestre\programación y laboratorio 1\tp2\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1569785113 source:c:\users\sa-julian\documents\estudio\utn fra\1er cuatrimestre\programación y laboratorio 1\tp2\main.c
+	<stdio.h>
+	<string.h>
+	"utn.h"
+	"ArrayEmpleados.h"
+
+1569906550 source:c:\users\sa-julian\downloads\tp_laboratorio_1-master\tp_laboratorio_1-master\tp2\arrayempleados.c
+	<stdio.h>
+	<string.h>
+	"utn.h"
+	"ArrayEmpleados.h"
+
+1569906550 c:\users\sa-julian\downloads\tp_laboratorio_1-master\tp_laboratorio_1-master\tp2\utn.h
+
+1569906550 c:\users\sa-julian\downloads\tp_laboratorio_1-master\tp_laboratorio_1-master\tp2\arrayempleados.h
+
+1569906550 source:c:\users\sa-julian\downloads\tp_laboratorio_1-master\tp_laboratorio_1-master\tp2\main.c
+	<stdio.h>
+	<string.h>
+	"utn.h"
+	"ArrayEmpleados.h"
+
+1569906550 source:c:\users\sa-julian\downloads\tp_laboratorio_1-master\tp_laboratorio_1-master\tp2\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1570596725 source:c:\users\sa-julian\documents\estudio\utn fra\1er cuatrimestre\programación y laboratorio 1\tp_laboratorio_1\tp2\arrayempleados.c
+	<stdio.h>
+	<string.h>
+	"utn.h"
+	"ArrayEmpleados.h"
+
+1570096158 c:\users\sa-julian\documents\estudio\utn fra\1er cuatrimestre\programación y laboratorio 1\tp_laboratorio_1\tp2\utn.h
+
+1570094391 c:\users\sa-julian\documents\estudio\utn fra\1er cuatrimestre\programación y laboratorio 1\tp_laboratorio_1\tp2\arrayempleados.h
+
+1570592861 source:c:\users\sa-julian\documents\estudio\utn fra\1er cuatrimestre\programación y laboratorio 1\tp_laboratorio_1\tp2\main.c
+	<stdio.h>
+	<string.h>
+	"utn.h"
+	"ArrayEmpleados.h"
+
+1570590153 source:c:\users\sa-julian\documents\estudio\utn fra\1er cuatrimestre\programación y laboratorio 1\tp_laboratorio_1\tp2\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1570057129 source:/home/alumno/Descargas/tp_laboratorio_1-master/TP2/ArrayEmpleados.c
+	<stdio.h>
+	<string.h>
+	"utn.h"
+	"ArrayEmpleados.h"
+
+1570056176 /home/alumno/Descargas/tp_laboratorio_1-master/TP2/utn.h
+
+1570053788 /home/alumno/Descargas/tp_laboratorio_1-master/TP2/ArrayEmpleados.h
+
+1570056147 source:/home/alumno/Descargas/tp_laboratorio_1-master/TP2/main.c
+	<stdio.h>
+	<string.h>
+	"utn.h"
+	"ArrayEmpleados.h"
+
+1570056164 source:/home/alumno/Descargas/tp_laboratorio_1-master/TP2/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1570057998 source:/home/alumno/Descargas/Julian/tp_laboratorio_1/TP2/ArrayEmpleados.c
+	<stdio.h>
+	<string.h>
+	"utn.h"
+	"ArrayEmpleados.h"
+
+1570056176 /home/alumno/Descargas/Julian/tp_laboratorio_1/TP2/utn.h
+
+1570053788 /home/alumno/Descargas/Julian/tp_laboratorio_1/TP2/ArrayEmpleados.h
+
+1570056164 source:/home/alumno/Descargas/Julian/tp_laboratorio_1/TP2/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1570057832 source:/home/alumno/Descargas/Julian/tp_laboratorio_1/TP2/main.c
+	<stdio.h>
+	<string.h>
+	"utn.h"
+	"ArrayEmpleados.h"
+
+1570094510 source:c:\users\sa-julian\downloads\tp_laboratorio_1-master (1)\tp_laboratorio_1-master\tp2\arrayempleados.c
+	<stdio.h>
+	<string.h>
+	"utn.h"
+	"ArrayEmpleados.h"
+
+1570058102 c:\users\sa-julian\downloads\tp_laboratorio_1-master (1)\tp_laboratorio_1-master\tp2\utn.h
+
+1570094391 c:\users\sa-julian\downloads\tp_laboratorio_1-master (1)\tp_laboratorio_1-master\tp2\arrayempleados.h
+
+1570095127 source:c:\users\sa-julian\downloads\tp_laboratorio_1-master (1)\tp_laboratorio_1-master\tp2\main.c
+	<stdio.h>
+	<string.h>
+	"utn.h"
+	"ArrayEmpleados.h"
+
+1570095086 source:c:\users\sa-julian\downloads\tp_laboratorio_1-master (1)\tp_laboratorio_1-master\tp2\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
